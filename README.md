@@ -1,12 +1,15 @@
-# DPaint.js
+# Deluxe Paint
+
+→ [View Deluxe Paint](https://deluxe-paint.oinam.com)
+
 Webbased image editor modeled after the legendary [Deluxe Paint](https://en.wikipedia.org/wiki/Deluxe_Paint) with a focus on retro Amiga file formats.
 Next to modern image formats, DPaint.js can read and write Amiga icon files and IFF ILBM images.
 
-![DPaint.js Logo](./_img/dpaint-logo.png?raw=true)
+## Credit
 
-Online version available at https://www.stef.be/dpaint/
+- [Original Source](https://github.com/steffest/dpaint-js) from [Steffest](https://www.stef.be).
 
-![DPaint.js UI](./_img/ui.png?raw=true)
+---
 
 ## Main Features
  - Fully Featured image editor with a.o.
@@ -27,6 +30,7 @@ Online version available at https://www.stef.be/dpaint/
    - Embedded Amiga Emulator to preview your work in the real Deluxe Paint.
 
 ## Free and Open
+
 It runs in your browser, works on any system and works fine on touch-screen devices like iPads.  
 It is written in 100% plain JavaScript and has no dependencies.  
 It's 100% free, no ads, no tracking, no accounts, no nothing.  
@@ -36,6 +40,7 @@ The only part that is not included in this repository is the Amiga Emulator File
 (The emulator is based on the [Scripted Amiga Emulator](https://github.com/naTmeg/ScriptedAmigaEmulator))
 
 ## Building
+
 DPaint.js doesn't need building.  
 It also has zero dependencies so there's no need to install anything.  
 DPaint.js is written using ES6 modules and runs out of the box in modern browsers.  
